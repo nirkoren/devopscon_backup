@@ -7,6 +7,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
+		sh "echo BLUB BLUB BLA"
                 println 'Cloning repository...'
                 git 'https://github.com/Pete9020/devopscon.git'
                 println 'Starting the build...'
