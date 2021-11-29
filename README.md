@@ -21,6 +21,6 @@ In order to make it work, please do the following:
  > </tomcat-users>
  > ```
 
-The workshop PPT can be downloaded from below link: 
+The workshop PPT can be downloaded from the link below: 
 https://drive.google.com/file/d/1q0PTkTGBH5Q4ODCfJSJekZJ2Js5v7Dzq/view?usp=sharing
 
