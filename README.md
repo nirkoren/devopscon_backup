@@ -1,6 +1,6 @@
 # Hi and Welcome to DevOpsCon CI/CD demo repository
 ## This repository contains basic Maven project with Hello-World war file 
-In order to make it work, please do the following: 
+In order to make it work, please do the following:
 
 <ul>
   <li>Make sure JAVA 8 (<b>JDK</b> and not only <b>JRE</b>) or higher is running on your laptop</li>
@@ -22,6 +22,5 @@ In order to make it work, please do the following:
  > </tomcat-users>
  > ```
 
-The workshop PPT can be downloaded from below link: 
+The workshop PPT can be downloaded from below link:
 https://drive.google.com/file/d/1jB2ssaoYy0NsaXtnAfkrDIG2Yby1ZUP6/view?usp=sharing
-
